@@ -20,6 +20,7 @@ Write it in first (I) or third (Your Name Here) person.
 ## Current Role
 
 Grace Hopper Celebration Attendee
+
 Analyst
 
 ## Recognition
